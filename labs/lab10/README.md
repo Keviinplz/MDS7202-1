@@ -22,7 +22,7 @@ Los archivos y directorios están dispuestos de la siguiente forma
 └── tests              ---------------> Tests de la aplicación
 ```
 
-Para correr la aplicación, primero se debe instalar los requerimientos que están en `requirements.txt`, la aplicación se programó usando `Python 3.6.9`.
+Para correr la aplicación, primero se debe instalar los requerimientos que están en `requirements.txt`, la aplicación se programó usando `Python 3.9.6`.
 
 ```bash
 python3 -m pip install -r requirements.txt
